@@ -3,7 +3,7 @@
 📌 Project Objective
 The objective of this project is to build an interactive business intelligence solution for a retail company to optimize its inventory, improve demand forecasting accuracy, and evaluate the pricing strategy for increased profitability and reduced stockouts. The dashboards provide a 360° view of sales trends, external influencing factors, inventory health, and pricing effectiveness.
 
-🛠 Tools & Technologies Used
+🛠 Tools & Technologies Used.
 Power BI: Data modeling, interactive dashboards, DAX calculations
 
 Data Source: 
